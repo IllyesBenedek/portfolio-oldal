@@ -1,13 +1,9 @@
-html {
-    font-size: 10px;
-}
-
 h1 {
     color: dodgerblue;
-   text-decoration: underline;
     font-size: 48px;
 }
 
 p {
     font-size: 18px;
+    letter-spacing: 1px;
 }
