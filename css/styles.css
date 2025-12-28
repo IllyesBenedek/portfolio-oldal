@@ -1,5 +1,10 @@
+html { 
+    font-size: 10px;
+}
+
 h1 {
-    color: dodgerblue;
+    color: rgb(15, 84, 153);
+    text-decoration: underline;
     font-size: 48px;
 }
 
